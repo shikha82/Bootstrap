@@ -1,0 +1,17 @@
+h1 {
+  color: white;
+  font-family: lobster;
+}
+h3 {
+  color: white;
+  font-family: lobster;
+}
+#content {
+  text-align: center;
+  padding-top: 25%;
+}
+body {
+  background: url(https://images.unsplash.com/photo-1494267661104-3a7c223fb743?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7650aa26e4eab4bbb36edfd55ab2209d&auto=format&fit=crop&w=1032&q=80);
+  background-size: cover;
+}
+
