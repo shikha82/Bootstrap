@@ -1,0 +1,98 @@
+/*  */
+
+/* Navbar Design */
+
+.navbar{
+    padding:40px;
+}
+.nav-item{
+    font-size: 1.5em;
+}
+
+
+a {
+    display:flex;
+    flex-grow: 4;
+    justify-content: flex-end;
+}
+
+/* Carosel */
+
+.carousel-caption{
+    padding:90px;
+}
+
+.carousel-caption h1{
+    font-size: 6em;
+    color:black;
+}
+
+.carousel-caption p{
+    font-size: 2em;
+    color:black;  
+}
+/*  */
+
+ 
+
+/* Styling of the cards */
+.container-1{
+    padding:30px;
+    
+  }
+  
+  
+  .card-services{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+  }
+  
+  .card-1{
+      background-color: burlywood;
+  }
+  
+  .card-2{
+      background-color: blanchedalmond;
+  }
+  
+  .card-3{
+      background-color: wheat;
+  }
+  .card-4{
+      background-color: whitesmoke;
+  }
+  
+  .container-fluid-1{
+  background-color: rgba(163, 152, 152, 0.4);
+  padding:7em;
+  }
+  
+  /* Container-Fluid-2 */
+  .container-fluid-2{
+      padding:7em;
+      background-color: whitesmoke;
+  }
+  
+      .container{
+          
+          display:grid;
+          grid-template-columns: 40% 60%;
+          grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+          grid-gap: 50px;
+          background-color: rgba(128, 128, 128, 0.91);
+          
+      }
+  
+      /* Container-fluid-3 */
+      
+  
+      
+  
+      /* Footer */
+  
+      footer{
+          color:white;
+          background-color: #05051A;
+          padding:20px;
+      }
+  
